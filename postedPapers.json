@@ -327,6 +327,10 @@
     {
       "title": "Mapping the preprint review metadata transfer workflows",
       "link": "http://osf.io/yu4sm/"
+    },
+    {
+      "title": "Where are my data? The AFFORD workflow to create your own data index with Git, R and Quarto",
+      "link": "http://osf.io/64fch/"
     }
   ]
 }
