@@ -767,6 +767,10 @@
     {
       "title": "A Meta-Research Framework for Transparent, Ethically Accountable Integration of CAM",
       "link": "https://osf.io/snrfv"
+    },
+    {
+      "title": "NOS-TLPlot: A Specialized Python Tool for Visualizing Newcastle-Ottawa Scale Risk-of-Bias Assessments in Systematic Reviews and Meta-Analysis.",
+      "link": "https://osf.io/r9yh2"
     }
   ]
 }
