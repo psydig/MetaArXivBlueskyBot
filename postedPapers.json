@@ -807,6 +807,10 @@
     {
       "title": "Incorrect Citation Association for Articles in Online-Only Springer Nature Journals",
       "link": "https://osf.io/m3sf5"
+    },
+    {
+      "title": "Bias Corrected Vaccine Effectiveness in Test Negative Designs Using Serology Informed Bayesian Priors: A Reproducible FAIR/FHIR Native Pipeline",
+      "link": "https://osf.io/ensxf"
     }
   ]
 }
