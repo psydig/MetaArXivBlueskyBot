@@ -1131,6 +1131,14 @@
     {
       "title": "Data quality reporting in multi-database pharmacoepidemiologic studies: a scoping review and a proposal for a harmonised classification",
       "link": "https://osf.io/q9wta"
+    },
+    {
+      "title": "Many Pipelines, One Dataset: Analytic Flexibility and Its Impact in EEG Research",
+      "link": "https://osf.io/wvx48"
+    },
+    {
+      "title": "pycohortflow: Lightweight, customisable cohort flow diagrams in Python and JavaScript",
+      "link": "https://osf.io/ncya2"
     }
   ]
 }
