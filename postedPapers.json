@@ -1139,6 +1139,10 @@
     {
       "title": "pycohortflow: Lightweight, customisable cohort flow diagrams in Python and JavaScript",
       "link": "https://osf.io/ncya2"
+    },
+    {
+      "title": "STAMPED principles for reproducible research objects",
+      "link": "https://osf.io/f3h82"
     }
   ]
 }
