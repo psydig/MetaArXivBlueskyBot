@@ -1211,6 +1211,14 @@
     {
       "title": "Platform Peers: The Little-Known Market for Peer Reviews",
       "link": "https://osf.io/2wq3b"
+    },
+    {
+      "title": "Automatic Prompt Optimization for Policy Documents Classification",
+      "link": "https://osf.io/ja7bs"
+    },
+    {
+      "title": "The Marker Drift Problem: Measuring LLM-Assisted Writing with Unstable Lexical Indicators",
+      "link": "https://osf.io/xs64q"
     }
   ]
 }
