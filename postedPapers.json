@@ -1219,6 +1219,10 @@
     {
       "title": "The Marker Drift Problem: Measuring LLM-Assisted Writing with Unstable Lexical Indicators",
       "link": "https://osf.io/xs64q"
+    },
+    {
+      "title": "Toward Reproducible Research with LLMs: Guidance for Documentation, Reporting, and Transparency",
+      "link": "https://osf.io/8g7ja"
     }
   ]
 }
